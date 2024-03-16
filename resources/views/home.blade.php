@@ -14,7 +14,7 @@
                         </div>
                     @endif
 
-                    {{ __('You are logged in!') }}
+                    {{ __('This is a realtime application') }}
                 </div>
             </div>
         </div>
